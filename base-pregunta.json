@@ -1,0 +1,1659 @@
+[
+    {
+        
+        "incorrecta1": "Buda ",
+        "incorrecta2": "George Washington",
+        "incorrecta3": "John F.Kennedy\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuál es la nacionalidad de la cantante Shakira?",
+        "respuesta": "Colombiana",
+        "incorrecta1": "Venezolana",
+        "incorrecta2": "Ecuatoriana",
+        "incorrecta3": "Peruana\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Quién presentaba el programa 'Crónicas Marcianas'?",
+        "respuesta": "Javier Sardá",
+        "incorrecta1": "Jordi Roca",
+        "incorrecta2": "Boris Izaguirre",
+        "incorrecta3": "Pablo Motos\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llaman los acompañantes de Frank de la Jungla?",
+        "respuesta": "Santi Y Nacho",
+        "incorrecta1": "Fran Y Kiko",
+        "incorrecta2": "Alberto Y Chus",
+        "incorrecta3": "Manuel Y Jesús\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llama el actor que interpreta a Michael en la película \"El padrino\"?",
+        "respuesta": "Al Pacino",
+        "incorrecta1": "James Caan",
+        "incorrecta2": "Robert Duvall",
+        "incorrecta3": "Marlon Brando\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Quién es Justin Bieber?",
+        "respuesta": "Un Cantante",
+        "incorrecta1": "Un Modelo",
+        "incorrecta2": "Un Actor",
+        "incorrecta3": "Un Personaje Ficticio\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuál es el nombre real de Lady Gaga?",
+        "respuesta": "Stefani Germanotta",
+        "incorrecta1": "Robyn Fenty",
+        "incorrecta2": "Onika Maraj",
+        "incorrecta3": "Beth Moore\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llama el disco que lanzó Katy Perry en el 2013?",
+        "respuesta": "Prism",
+        "incorrecta1": "Katy Hudson",
+        "incorrecta2": "One Of The Boys",
+        "incorrecta3": "Teenage Dream\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Por qué película obtuvo Sofía Loren un Oscar?",
+        "respuesta": "Dos Mujeres",
+        "incorrecta1": "Cleopatra",
+        "incorrecta2": "Hermanitas",
+        "incorrecta3": "Ninguna\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Qué es Assasin's Creed?",
+        "respuesta": "Un Videojuego",
+        "incorrecta1": "Una Tienda De Ropa",
+        "incorrecta2": "Una Secta",
+        "incorrecta3": "Un País\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿De qué color era Clifford, el perro gigante?",
+        "respuesta": "Rojo",
+        "incorrecta1": "Verde",
+        "incorrecta2": "Azul",
+        "incorrecta3": "Amarillo\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuál es el nombre de la canción de la película \"Titanic\"?",
+        "respuesta": "My Heart Will Go On",
+        "incorrecta1": "Bad Romance",
+        "incorrecta2": "Livin' On A Prayer",
+        "incorrecta3": "Killer Queen\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Quién de los siguientes actores salía en la película 'El otro lado de la cama'?",
+        "respuesta": "Natalia Verbeke",
+        "incorrecta1": "Hugo Silva",
+        "incorrecta2": "Mario Casas",
+        "incorrecta3": "Amaia Salamanca\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llama el personaje malvado de Aladdin?",
+        "respuesta": "Jafar",
+        "incorrecta1": "Chadar",
+        "incorrecta2": "Scar",
+        "incorrecta3": "Lex\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Quién ganó \"Artista del Año\" en los American Music Awards 2013?",
+        "respuesta": "Taylor Swift",
+        "incorrecta1": "Miley Cirus",
+        "incorrecta2": "Bruno Mars",
+        "incorrecta3": "Justin Timberlake\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿De quién es la canción 'Master of Puppets'?",
+        "respuesta": "Metallica",
+        "incorrecta1": "Abba",
+        "incorrecta2": "Pink Floyd",
+        "incorrecta3": "Queen\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿De qué planeta son originarios los eworks del universo de \"La Guerra de las Galaxias\"?",
+        "respuesta": "Endor",
+        "incorrecta1": "Alderaan",
+        "incorrecta2": "Tatooine",
+        "incorrecta3": "Khasyyyk\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Qué cantante estuvo saliendo con Selena Gómez?",
+        "respuesta": "Justin Bieber",
+        "incorrecta1": "Harry Styles",
+        "incorrecta2": "Robbie Williams",
+        "incorrecta3": "Simon Cowell\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Quién resulta ser el príncipe mestizo en la sexta película de Harry Potter?",
+        "respuesta": "Severus Snape",
+        "incorrecta1": "Lord Voldemort",
+        "incorrecta2": "Albus Dumbuldore",
+        "incorrecta3": "Sirius Black\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llamaba el primer gato de Los Simpsons?",
+        "respuesta": "Bola De Nieve",
+        "incorrecta1": "Bolita",
+        "incorrecta2": "Nieve",
+        "incorrecta3": "Gato\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo es conocida mundialmente la cantante Beyonce?",
+        "respuesta": "Queen B",
+        "incorrecta1": "Blue Ivy",
+        "incorrecta2": "Diva",
+        "incorrecta3": "Queen\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuál es la cantante que publicó en 2008 el álbum \"Hard  Candy\"?",
+        "respuesta": "Madonna",
+        "incorrecta1": "Britney Spears",
+        "incorrecta2": "Rihanna",
+        "incorrecta3": "Shakira\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuáles son los nombres de \"Los Tres Chiflados\"?",
+        "respuesta": "Moe, Larry Y Curly",
+        "incorrecta1": "Mio, Luck, Patrick",
+        "incorrecta2": "Bart, Luck Y Loles",
+        "incorrecta3": "Mou, Larri Y Carly\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Qué quería comerse Alf?",
+        "respuesta": "Al Gato",
+        "incorrecta1": "A Willie",
+        "incorrecta2": "A Lynn",
+        "incorrecta3": "Las Plantas\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Dónde nació John Lennon?",
+        "respuesta": "Liverpool",
+        "incorrecta1": "Dublin",
+        "incorrecta2": "Londres",
+        "incorrecta3": "Hamburgo\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuál es la última película por la que el director Terrence Malick ganó la Palma de Oro en el Festival de Cannes?",
+        "respuesta": "El Árbol De La Vida",
+        "incorrecta1": "Días De Cielo",
+        "incorrecta2": "La Delgada Linea Roja",
+        "incorrecta3": "Malas Tierras\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuál de estas películas ganó el Óscar a la mejor película?",
+        "respuesta": "Patton",
+        "incorrecta1": "Apocalypse Now",
+        "incorrecta2": "La Delgada Línea Roja",
+        "incorrecta3": "Salvar Al Soldado Ryan\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuántos años tenía Mozart al morir?",
+        "respuesta": "35",
+        "incorrecta1": "45",
+        "incorrecta2": "96",
+        "incorrecta3": "54\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿En cuál de estos juegos el terreno tiene hongos, flores, bombas de DDT, y como enemigos y arañas, mariquitas y otros insectos?",
+        "respuesta": "Millipede",
+        "incorrecta1": "Centipede",
+        "incorrecta2": "Burgertime",
+        "incorrecta3": "Paperboy\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llama el ayudante de Iron Man?",
+        "respuesta": "Jarvis",
+        "incorrecta1": "Tony",
+        "incorrecta2": "Jef",
+        "incorrecta3": "Alex\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Quién es Alan en \"Dos Hombres y Medio?",
+        "respuesta": "El Hermano De Charlie",
+        "incorrecta1": "El Amigo Parásito De Charlie",
+        "incorrecta2": "El Primo De Charlie",
+        "incorrecta3": "El Sobrino De Charlie\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuántas categorías tiene este juego?",
+        "respuesta": "6",
+        "incorrecta1": "4",
+        "incorrecta2": "5",
+        "incorrecta3": "10\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llamaba el cantante de Queen?",
+        "respuesta": "Freddie Mercury",
+        "incorrecta1": "Robert Plant",
+        "incorrecta2": "Kurt Cobain",
+        "incorrecta3": "Phill Collins\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Quién lleva un bolsillo mágico?",
+        "respuesta": "Doraemon",
+        "incorrecta1": "Dora",
+        "incorrecta2": "Peppa Pig",
+        "incorrecta3": "Pikachu\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuál de estos jugadores aparece en la tapa del videojuego Fifa 2013?",
+        "respuesta": "Lionel Messi",
+        "incorrecta1": "Cristiano Ronaldo",
+        "incorrecta2": "Neymar Da Silva",
+        "incorrecta3": "Wayne Ronney\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llamaba el panadero de Barrio Sésamo?",
+        "respuesta": "Chema",
+        "incorrecta1": "Juan",
+        "incorrecta2": "Pedro",
+        "incorrecta3": "Chicho\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿En qué película se dice 'La vida es como una caja de bombones, nunca sabes qué te va a tocar'?",
+        "respuesta": "Forrest Gump",
+        "incorrecta1": "Airbag",
+        "incorrecta2": "Ace Ventura",
+        "incorrecta3": "Matrix\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Qué personaje Disney baja por un río con una canoa?",
+        "respuesta": "Pocahontas",
+        "incorrecta1": "Peter Pan",
+        "incorrecta2": "Blancanieves",
+        "incorrecta3": "Lilo Y Stich\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Quién es el actor vampiro protagonista de la saga \"Crepúsculo\"?",
+        "respuesta": "Robert Pattinson",
+        "incorrecta1": "Taylor Lauter",
+        "incorrecta2": "Danny De Vito",
+        "incorrecta3": "Will Smith\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuál de los siguientes actores no actúa en \"La Que Se Avecina\"?",
+        "respuesta": "Llum Barrera",
+        "incorrecta1": "Fernando Tejero",
+        "incorrecta2": "Jordi Sánchez",
+        "incorrecta3": "Cristina Castaño\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuál es el nombre del actor que interpreta a Harry Potter?",
+        "respuesta": "Daniel",
+        "incorrecta1": "Alfred",
+        "incorrecta2": "Rupert",
+        "incorrecta3": "Harry\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Qué movimiento llegó en 1970 con la canción \"Anarchy in the U.K.\" a su punto culminante?",
+        "respuesta": "Punk",
+        "incorrecta1": "Heavy Metal",
+        "incorrecta2": "Rap",
+        "incorrecta3": "Rock\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿En qué año se fundó Twitter?",
+        "respuesta": "2006",
+        "incorrecta1": "2004",
+        "incorrecta2": "2002",
+        "incorrecta3": "2005\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llama el hijo de Shakira y Piqué?",
+        "respuesta": "Milan",
+        "incorrecta1": "Mario",
+        "incorrecta2": "Sergio",
+        "incorrecta3": "Joel\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Quién vive en una piña debajo del mar?",
+        "respuesta": "Bob Esponja",
+        "incorrecta1": "Calamardo",
+        "incorrecta2": "El Pez Flounder",
+        "incorrecta3": "Patricio Estrella\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿En cuál de estos grupos no canta una mujer?",
+        "respuesta": "Smashing Pumpkins",
+        "incorrecta1": "La Oreja De Van Gogh",
+        "incorrecta2": "Evanescence",
+        "incorrecta3": "Garbage\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llamaba el perro de Luke Skywalker?",
+        "respuesta": "No Tenía",
+        "incorrecta1": "Yoda Dog",
+        "incorrecta2": "Rithaaard",
+        "incorrecta3": "Raikonen\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿En qué año nació Michael Jackson?",
+        "respuesta": "1958",
+        "incorrecta1": "1961",
+        "incorrecta2": "1969",
+        "incorrecta3": "1959\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Dónde luchaban Starsky y Hutch contra el crimen?",
+        "respuesta": "Los Ángeles",
+        "incorrecta1": "Dallas",
+        "incorrecta2": "Seatle",
+        "incorrecta3": "Nueva York\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuál de las siguientes actrices ha aparecido en las tres temporadas de American Horror Story?",
+        "respuesta": "Jessica Lange",
+        "incorrecta1": "Kathy Bates",
+        "incorrecta2": "Taissa Farmiga",
+        "incorrecta3": "Connie Britton\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Quién de ellos NO perteneció a la primera banda de Guns and Roses?",
+        "respuesta": "John Lennon",
+        "incorrecta1": "Axl Rose",
+        "incorrecta2": "Saul Hudson",
+        "incorrecta3": "Duff Mackagan\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿En qué serie es Barney Stinson uno de los protagonistas?",
+        "respuesta": "How I Met Your Mother",
+        "incorrecta1": "The Big Bang Theory",
+        "incorrecta2": "Revenge",
+        "incorrecta3": "Breaking Bad\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Qué miembro de la nave \"Enterprise\" es el responsable del teletransporte en Star Trek?",
+        "respuesta": "Scotty",
+        "incorrecta1": "Kirk",
+        "incorrecta2": "Pille",
+        "incorrecta3": "Spock\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿De cuántas partes se compone la saga de \"El Padrino\"?",
+        "respuesta": "3",
+        "incorrecta1": "4",
+        "incorrecta2": "2",
+        "incorrecta3": "5\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llama la hija de Bella Swan en la Saga Crepúsculo?",
+        "respuesta": "Renesme",
+        "incorrecta1": "Rene",
+        "incorrecta2": "Bella",
+        "incorrecta3": "Merline\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cómo se llama el amigo inseparable de \"Dora la Exploradora\"?",
+        "respuesta": "Botas",
+        "incorrecta1": "Mono",
+        "incorrecta2": "Suaiper",
+        "incorrecta3": "Doro\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Qué actor interpretó Michael Corleone en El Padrino?",
+        "respuesta": "Al Pacino",
+        "incorrecta1": "John Cazale",
+        "incorrecta2": "Marlon Brando",
+        "incorrecta3": "Robert De Niro\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿Cuántos discos de estudio hizo Queen con Freddie Mercury?",
+        "respuesta": "16",
+        "incorrecta1": "3",
+        "incorrecta2": "NINGUNO",
+        "incorrecta3": "9\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿A qué cantante acompañaban Los Trogloditas?",
+        "respuesta": "Loquillo",
+        "incorrecta1": "Amaia Montero",
+        "incorrecta2": "Fito",
+        "incorrecta3": "Joaquín Sabina\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": " ¿En qué saga de videojuegos aparece la entrega \"Ocarina Of Time\"?",
+        "respuesta": "Legend Of Zelda",
+        "incorrecta1": "Metal Gear",
+        "incorrecta2": "Pokemon",
+        "incorrecta3": "Grand Theft Auto\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Quién es?",
+        "respuesta": "Bob Esponja",
+        "incorrecta1": "Patricio",
+        "incorrecta2": "Steve",
+        "incorrecta3": "Mario Bros\r",
+      "imagen": "https://i.ibb.co/vzfcWvv/bob-esponja-9564.png"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Quién es?",
+        "respuesta": "Pinocho",
+        "incorrecta1": "Oliver",
+        "incorrecta2": "Mentirosin",
+        "incorrecta3": "Marionetocho\r",
+        "imagen": "https://i.ibb.co/ggSdcXW/pinocho-con-manzana.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Quién disparó al Sr. Burns?",
+        "respuesta": "Maggie Simpson",
+        "incorrecta1": "Smithers",
+        "incorrecta2": "Homer Simpson",
+        "incorrecta3": "Pequeño Ayudante de Santa Claus\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuál es el nombre completo de Homer?",
+        "respuesta": "Homer Jay Simpson",
+        "incorrecta1": "Homer Josh Simpson",
+        "incorrecta2": "Homer Jake Simpson",
+        "incorrecta3": "Homer Jeff Simpson\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué sentidos tiene atrofiados Selma, la hermana de Marge?",
+        "respuesta": "El gusto y el olfato",
+        "incorrecta1": "El gusto y el oído",
+        "incorrecta2": "El tacto y el olfato",
+        "incorrecta3": "El olfato y el oído\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿De qué están hechas las barritas energéticas que toma Homer para escalar el pico más alto de Springfield?",
+        "respuesta": "De pipas y periódicos chinos",
+        "incorrecta1": "De trocitos de fruta y libros viejos de historia",
+        "incorrecta2": "De chocolate y cartones usados",
+        "incorrecta3": "De mondas de manzana y papel reciclado\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué personaje dice la frase: \"Las pequeñas cosas son las que hacen la ",
+        "respuesta": "El villano Hank Scorpio",
+        "incorrecta1": " El profesor Flink",
+        "incorrecta2": "La madre de Homer, Mona J. Simpson",
+        "incorrecta3": "El actor secundario Mel\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Quiénes salvan de la quiebra a la productora de Rasca y Pica?",
+        "respuesta": "Lester y Eliza",
+        "incorrecta1": "Bart y Lisa",
+        "incorrecta2": "Chester y Liza",
+        "incorrecta3": "Martin y Lisa\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama la mascota que diseña Homer para los frustrados Juegos Olímpicos de Springfield?",
+        "respuesta": "Muellín",
+        "incorrecta1": "Bobo",
+        "incorrecta2": "Saltitos",
+        "incorrecta3": "Tenacitas\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué foto gana el concurso para convertirse en la portada de la guía telefónica de Springfield?",
+        "respuesta": "Bart y Lisa desnudos cuando eran bebés",
+        "incorrecta1": "Un grupo de perros jugando al póker",
+        "incorrecta2": "Un retrato del Sr. Burns",
+        "incorrecta3": "Maggie con la cabeza cubierta de espaguetis\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué matrícula personalizada se agota en el parque temático Rascapiquilandia?",
+        "respuesta": "Bort",
+        "incorrecta1": "Bert",
+        "incorrecta2": "Birt",
+        "incorrecta3": "Bart\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿De qué estado norteamericano es el disfraz que le hace Homer a Lisa?",
+        "respuesta": "De Florida",
+        "incorrecta1": "Nevada",
+        "incorrecta2": "Wisconsin",
+        "incorrecta3": "Alabama\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama el libro de los heroes en hora de aventura?",
+        "respuesta": "El Enchiridion",
+        "incorrecta1": "El epictectus",
+        "incorrecta2": "El Grimorio",
+        "incorrecta3": "El Enkheiridion\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Quién es el creador de Hora de aventura?",
+        "respuesta": "Pendleton Ward",
+        "incorrecta1": "Persey James",
+        "incorrecta2": "Aaron Morgan",
+        "incorrecta3": "Michel Krotmin\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Año de lanzamiento de hora de aventura",
+        "respuesta": "2010",
+        "incorrecta1": "2009",
+        "incorrecta2": "2007",
+        "incorrecta3": "2011\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuántas veces murio Jake?",
+        "respuesta": "1",
+        "incorrecta1": "2",
+        "incorrecta2": "3",
+        "incorrecta3": "0\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama el episodio en el que jake conoce a los padres de Lady Arcoiris?",
+        "respuesta": "Los Suegros",
+        "incorrecta1": "Los padres de mi novia",
+        "incorrecta2": "La mision imposible de jake",
+        "incorrecta3": "Ah! Nanita\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama la creacion que Finn hizo para hacerle una broma a Jake? | (• ◡•) | (❍ᴥ❍ ʋ)",
+        "respuesta": "Neptor",
+        "incorrecta1": "Victor",
+        "incorrecta2": "Lucas",
+        "incorrecta3": "BMO\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuántos hijos tiene Jake?",
+        "respuesta": "0",
+        "incorrecta1": "1",
+        "incorrecta2": "2",
+        "incorrecta3": "5\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama el corazón del Rey Helado?",
+        "respuesta": "Ricardio",
+        "incorrecta1": "Alejandro",
+        "incorrecta2": "No tiene corazon",
+        "incorrecta3": "Dave Jones\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿De quien esta enamorado Finn?",
+        "respuesta": "Princesa Flama",
+        "incorrecta1": "Dulce princesa",
+        "incorrecta2": "Marceline",
+        "incorrecta3": "De todas\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama la dulce princesa?",
+        "respuesta": "Bonibel",
+        "incorrecta1": "Leyla",
+        "incorrecta2": "Belibom",
+        "incorrecta3": "Lillian\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "En el capitulo \"El rey gusano\" cuando Finn le dio la espalda al espejo ¿Qué sucedio?",
+        "respuesta": "El Linch se llevo al Finn alterno",
+        "incorrecta1": "Se convirtio en un monstruo",
+        "incorrecta2": "Aparecio Jake y lo llevo a la salida",
+        "incorrecta3": "Ninguna es correcto\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama el creador de Dragon Ball?",
+        "respuesta": "Akira Toriyama",
+        "incorrecta1": "Akira Toniyama",
+        "incorrecta2": "Akira Calabazo",
+        "incorrecta3": "Rakia Inayarito\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuántas peliculas tiene Death Note?",
+        "respuesta": "3",
+        "incorrecta1": "1",
+        "incorrecta2": "0",
+        "incorrecta3": "8\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Quién es Eiichiro Oda?",
+        "respuesta": "El Creador de One Piece",
+        "incorrecta1": "El creador de Chobits",
+        "incorrecta2": "El creador de Clannad",
+        "incorrecta3": "El Creador de Blood +\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuántos episodios tiene Gantz?",
+        "respuesta": "26",
+        "incorrecta1": "25",
+        "incorrecta2": "30",
+        "incorrecta3": "35\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Quién fue el personaje menos preferido de Akira Toriyama?",
+        "respuesta": "Vegeta",
+        "incorrecta1": "Krillin",
+        "incorrecta2": "Goku",
+        "incorrecta3": "Mr Popo\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Quién fue la creadora  de Inuyasha?",
+        "respuesta": "Rumiko Takahashi",
+        "incorrecta1": "Satsuki Igarashi",
+        "incorrecta2": "Nagase Ohkawa",
+        "incorrecta3": "Mokona Apapa\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuál es el personaje principal de Kaleidostar?",
+        "respuesta": "Sora",
+        "incorrecta1": "Rukia",
+        "incorrecta2": "Nagasi",
+        "incorrecta3": "Naome\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuál es el personaje principal de Bleach?",
+        "respuesta": "Ichigo",
+        "incorrecta1": "Rukia",
+        "incorrecta2": "Byakuya",
+        "incorrecta3": "Sosuke\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Año de lanzamiento de Ranma 1/2",
+        "respuesta": "1989",
+        "incorrecta1": "1990",
+        "incorrecta2": "1991",
+        "incorrecta3": "1992\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Cuando la princesa lodo le dice a Finn que quiere casarse con él ¿Qué le contesta Jake a ella para que se quite esa idea de la cabeza?",
+        "respuesta": "Que Finn se mea encima todo el tiempo",
+        "incorrecta1": "La verdad (Que Finn no se quiere casar con ella)",
+        "incorrecta2": "Que el que se quiere casar con ella es Jake",
+        "incorrecta3": "Que sufre de una terrible enfermedad y morira pronto\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llaman los dos protagonistas de hora de aventura?",
+        "respuesta": "Finn y Jake",
+        "incorrecta1": "Fionna y Cake",
+        "incorrecta2": "Jaque y Mate",
+        "incorrecta3": "Mario y Roberto\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuántos años tiene Finn?",
+        "respuesta": "13 años",
+        "incorrecta1": "No tiene edad ni por venir y ser feliz es su color de identidad.",
+        "incorrecta2": "15 Primaveras 15 Flores nuevas",
+        "incorrecta3": "Tiene la misma edad de Jake\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿En que país viven los protagonistas?",
+        "respuesta": "En el país de Ooo",
+        "incorrecta1": "En Colombia",
+        "incorrecta2": "En el País de nunca jamás",
+        "incorrecta3": "El el país del oro\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama la consola e video juegos que tiene Finn y Jake?",
+        "respuesta": "BMO",
+        "incorrecta1": "BIMO",
+        "incorrecta2": "No tiene nombre",
+        "incorrecta3": "BEEMO\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Que animal sale en todos los episodios de Hora de aventura aparte de Jake?",
+        "respuesta": "Un caracol saludando",
+        "incorrecta1": "Un pez de colores",
+        "incorrecta2": "Los tres cerditos",
+        "incorrecta3": "Solo jake ningun otro\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama Marceline cuando se convierte en un chico?",
+        "respuesta": "Marshall Lee",
+        "incorrecta1": "Vampirito Lee",
+        "incorrecta2": "Mare de Lee",
+        "incorrecta3": "Roberto 7u7\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo de llama la novia de Jake?",
+        "respuesta": "Lady Arcoiris",
+        "incorrecta1": "Madam Arcoiris",
+        "incorrecta2": "Miss Arcoiris",
+        "incorrecta3": "Jake no tiene novia\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Por qué dicen que Billy es Sascuash?",
+        "respuesta": "Por que se puso mucho tonico para el cabello",
+        "incorrecta1": "Mandy le pego una peluca gigante",
+        "incorrecta2": "Por que enveneno a Puro Hueso",
+        "incorrecta3": "Ninguna es correcta\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Cuando billy  se compra un cereal que lo hace la fabrica de Eriz ¿Qué contiene adentro?",
+        "respuesta": "Un Fenix",
+        "incorrecta1": "Una manzana",
+        "incorrecta2": "Un retrato del Sr. Burns",
+        "incorrecta3": "Una serpiente\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama el cazador de monstruos?",
+        "respuesta": "Rene-Gado",
+        "incorrecta1": "Lucas Manuel",
+        "incorrecta2": "Pancho-Villa",
+        "incorrecta3": "Elsin Ombre\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué es la novia de puro hueso?",
+        "respuesta": "Un gusano gigante",
+        "incorrecta1": "Un Zombie",
+        "incorrecta2": "Una Araña Gigante",
+        "incorrecta3": "Nunca tuvo novia\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama el papá de Billy?",
+        "respuesta": "Harold",
+        "incorrecta1": "Homer Josh Simpson",
+        "incorrecta2": "Camus",
+        "incorrecta3": "Peter\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿A que le tiene miedo billy?",
+        "respuesta": "A los payasos",
+        "incorrecta1": "A los arboles",
+        "incorrecta2": "A lo muerto",
+        "incorrecta3": "A los globos\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se conocieron Billy y Mandy?",
+        "respuesta": "Billy fue a tocar la puerta de la casa de Mandy",
+        "incorrecta1": "Puro hueso los unio",
+        "incorrecta2": "Son hermanos",
+        "incorrecta3": "Se encontraron en la calle\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿En donde cuentan Billy & Mandy cuando se conocieron?",
+        "respuesta": "En un hoyo con un dragon gigante",
+        "incorrecta1": "En Los 60's",
+        "incorrecta2": "en una roca",
+        "incorrecta3": "en una cupula de vidrio\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "La mamá de Billy hace ver a puro hueso en un episodio",
+        "respuesta": "Mansion Foster para amigos imaginarios",
+        "incorrecta1": "Las chicas superpoderosas",
+        "incorrecta2": "Los tres cerditos",
+        "incorrecta3": "Los padrinos magicos\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué juego le regala Marge a Bart Cuando roba un videojuego?",
+        "respuesta": "Golf",
+        "incorrecta1": "Transformers",
+        "incorrecta2": "GTA Vice City",
+        "incorrecta3": "Formula 1\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "En el especial de Halloween de la temporada 20 a que juegan los transformers con los humanos",
+        "respuesta": "Mete gol",
+        "incorrecta1": "Ping Pong",
+        "incorrecta2": "Solo se los comen",
+        "incorrecta3": "Golf\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué esta escrito en las escaleras de la comisaria?",
+        "respuesta": "El Barto",
+        "incorrecta1": "Bart estuvo aquí",
+        "incorrecta2": "Nada",
+        "incorrecta3": "El Homo\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuándo Marge es policia, que falsifica el que vende armas?",
+        "respuesta": "Jeans",
+        "incorrecta1": "Shorts",
+        "incorrecta2": "Casas",
+        "incorrecta3": "Documentos de identidad\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Cuando aparece el antiguo novio de Marge y la lleva a su casa ¿De que era el Baile?",
+        "respuesta": "De los 80",
+        "incorrecta1": "Era un pogo Hardcore",
+        "incorrecta2": "No hubo baile",
+        "incorrecta3": "No la llevo a su casa\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿El la presentacion del especial de halloween de la temporada 20 por quien vota Homero?",
+        "respuesta": "Obama",
+        "incorrecta1": "Clinton",
+        "incorrecta2": "Le disparan antes de que vote",
+        "incorrecta3": "Voto en blanco\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Lo que mas come y toma Homero?",
+        "respuesta": "Cerveza y Donas",
+        "incorrecta1": "Cerveza y mani",
+        "incorrecta2": "Todo lo come por igual",
+        "incorrecta3": "Es Anorexico\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué jugador de Futbol famoso aparece cuando Homero es Arbitro?",
+        "respuesta": "Cristiano",
+        "incorrecta1": "Messi",
+        "incorrecta2": "Rooney",
+        "incorrecta3": "Marradona\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Cantidad de hijos que tienen Homero y Marge",
+        "respuesta": "3",
+        "incorrecta1": "2",
+        "incorrecta2": "1",
+        "incorrecta3": "0\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Moe le compra una freidora al montar un restaurante familiar",
+        "respuesta": "A la marina norteamericana",
+        "incorrecta1": "Al presidente",
+        "incorrecta2": "A Homero",
+        "incorrecta3": "A Nelson\r"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Detalle facial que lleva el enemigo de Maggie",
+        "respuesta": "Solo tiene una ceja",
+        "incorrecta1": "No lleva chupete",
+        "incorrecta2": "Tiene barba",
+        "incorrecta3": "Un piercing"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Periodo de vida de J. Kepler",
+        "respuesta": "(1571 - 1630)",
+        "incorrecta1": "(1672 - 1720)",
+        "incorrecta2": "(1420 - 1507)",
+        "incorrecta3": "Sigue con vida\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Famoso por una manzana que cayó en su cabeza",
+        "respuesta": "I Newton",
+        "incorrecta1": "G Leibniz",
+        "incorrecta2": "L'Hopital",
+        "incorrecta3": "M Agnesi\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿En qué año Newton Descubrió el calculo?",
+        "respuesta": "1665",
+        "incorrecta1": "1637",
+        "incorrecta2": "1728",
+        "incorrecta3": "1696\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿Qué descubrio Kepler en 1609?",
+        "respuesta": "Las leyes del movimiento planetario",
+        "incorrecta1": "La geometria analitica",
+        "incorrecta2": "La integral de Kepler",
+        "incorrecta3": "El volumen del cilindro\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Que numero introdujo Euler",
+        "respuesta": "2,71828182845904523536028747135266249775…",
+        "incorrecta1": "1,41421356237309504880168872420969807856…",
+        "incorrecta2": "0",
+        "incorrecta3": "1.73205080756887729352744634150587236694…\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Este es el antiguo billete de 10 francos suizos ¿De quién es el retrato?",
+        "respuesta": "Euler",
+        "incorrecta1": "Bacón",
+        "incorrecta2": "Rieman",
+        "incorrecta3": "Fibonacci\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Area del triangulo",
+        "respuesta": "½ab(senΘ)",
+        "incorrecta1": "2πr",
+        "incorrecta2": "πr²",
+        "incorrecta3": "bh\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Area del triangulo",
+        "respuesta": "½bh",
+        "incorrecta1": "2πr",
+        "incorrecta2": "πr²",
+        "incorrecta3": "bh\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Area del paralelogramo",
+        "respuesta": "bh",
+        "incorrecta1": "½bh",
+        "incorrecta2": "½bh",
+        "incorrecta3": "½ab(senΘ)\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Circunferencia de un circulo",
+        "respuesta": "2πr",
+        "incorrecta1": "½bh",
+        "incorrecta2": "½bh",
+        "incorrecta3": "½ab(senΘ)\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Area de un circulo",
+        "respuesta": "πr²",
+        "incorrecta1": "½bh",
+        "incorrecta2": "½bh",
+        "incorrecta3": "½ab(senΘ)\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿Qué es el radio?",
+        "respuesta": "es un segmento que une el centro con un punto de la circunferencia perimetral.",
+        "incorrecta1": "es un segmento que une dos puntos de la circunferencia sin pasar por su centro.",
+        "incorrecta2": "línea que hace parte y sobresale del círculo .",
+        "incorrecta3": "Es la recta que toca al círculo en un solo punto; es perpendicular al radio cuyo extremo es el punto de tangencia.\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Perímetro del Círculo",
+        "respuesta": "2πr",
+        "incorrecta1": "πr²",
+        "incorrecta2": "π²",
+        "incorrecta3": "Ninguna es correcta\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿Cuánto vale el radio de la circunferencia goniométrica?",
+        "respuesta": "1",
+        "incorrecta1": "π²",
+        "incorrecta2": "3",
+        "incorrecta3": "cualquier numero real\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿Que es π, (número pi)?",
+        "respuesta": "Es el cociente entre la longitud de la circunferencia y el diámetro",
+        "incorrecta1": "Es la relacion entre el diametro y el radio",
+        "incorrecta2": "El producto del Area con el perimetro",
+        "incorrecta3": "La raiz del radio\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Cuales son Paralelogramos rectángulos",
+        "respuesta": "El cuadrado y el rectangulo",
+        "incorrecta1": "El rombo y  el romboide",
+        "incorrecta2": "El triangulo equilatero y el triangulo isoseles",
+        "incorrecta3": "El cono y la esfera\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Cuales son Paralelogramos no rectángulos",
+        "respuesta": "El rombo y  el romboide",
+        "incorrecta1": "El cuadrado y el rectangulo",
+        "incorrecta2": "El triangulo equilatero y el triangulo isoseles",
+        "incorrecta3": "El cono y la esfera\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿Cuál es la afirmacion verdadera?",
+        "respuesta": "Todo paralelogramo tiene cuatro vértices y cuatro lados ",
+        "incorrecta1": "os lados opuestos de un paralelogramo no son paralelos",
+        "incorrecta2": "La suma de los ángulos interiores de todo paralelogramo es siempre igual a 180°.",
+        "incorrecta3": "Todos los paralelogramos son concavos.\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Raiz Cuadrada de 2",
+        "respuesta": "1,41421356237309504880168872420969807856967187…",
+        "incorrecta1": "3.14159265358979323846264338327950288419716939...",
+        "incorrecta2": "1.73205080756887729352744634150587236694280525…",
+        "incorrecta3": "2.23606797749978969640917366873127623544061835...\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "π (Pi)",
+        "respuesta": "3.14159265358979323846264338327950288419716939...",
+        "incorrecta1": "1,41421356237309504880168872420969807856967187…",
+        "incorrecta2": "1.73205080756887729352744634150587236694280525…",
+        "incorrecta3": "2.23606797749978969640917366873127623544061835...\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Raiz Cuadrada de 3",
+        "respuesta": "1.73205080756887729352744634150587236694280525…",
+        "incorrecta1": "1,41421356237309504880168872420969807856967187…",
+        "incorrecta2": "3.14159265358979323846264338327950288419716939...",
+        "incorrecta3": "2.23606797749978969640917366873127623544061835...\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Raiz cuadrada de 5",
+        "respuesta": "2.23606797749978969640917366873127623544061835...",
+        "incorrecta1": "1,41421356237309504880168872420969807856967187…",
+        "incorrecta2": "3.14159265358979323846264338327950288419716939...",
+        "incorrecta3": "1.73205080756887729352744634150587236694280525…\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "φ (Phi)",
+        "respuesta": "1,6180339887498948482…",
+        "incorrecta1": "1,4142135623730950488…",
+        "incorrecta2": "3.1415926535897932384...",
+        "incorrecta3": "2.2360679774997896964...\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "e (Número de Euler o Constante de Napier)",
+        "respuesta": "2,71828182845904523536028747135266249775…",
+        "incorrecta1": "1,41421356237309504880168872420969807856…",
+        "incorrecta2": "3.14159265358979323846264338327950288419...",
+        "incorrecta3": "1.73205080756887729352744634150587236694…\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "El número de Arquímedes",
+        "respuesta": "Ar",
+        "incorrecta1": "π",
+        "incorrecta2": "e",
+        "incorrecta3": "0\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "la constante de Arquímedes",
+        "respuesta": "π",
+        "incorrecta1": "Ar",
+        "incorrecta2": "senΘ",
+        "incorrecta3": "cosΘ\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Plantea el nombre y símbolo de este número π",
+        "respuesta": "Jones",
+        "incorrecta1": "Euler",
+        "incorrecta2": "Arquímedes",
+        "incorrecta3": "Ahmes\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Con que aproximacion Arquimedes calculo a  π",
+        "respuesta": "3(10/71) < π < 3(1/7)",
+        "incorrecta1": " π = 22/3",
+        "incorrecta2": "3 < π <3.2",
+        "incorrecta3": " π = 3.1\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Referencia indirecta del valor aproximado de π en la biblia",
+        "respuesta": "I Reyes 7:23-24",
+        "incorrecta1": "Genesis. 5.1-32",
+        "incorrecta2": "Oración de Nehemías sobre Jerusalén",
+        "incorrecta3": "Jos. 15.15-19\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Referencia indirecta del valor aproximado de π en la biblia",
+        "respuesta": "II Crónicas 4:2",
+        "incorrecta1": "Salmo 42:5, 11; 43:5",
+        "incorrecta2": "Éxodo 14:14",
+        "incorrecta3": "Proverbios 3:5\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "El día pi en el que los fans de este número lo celebran con diferentes actuaciones. ",
+        "respuesta": "El 14 de marzo",
+        "incorrecta1": "El día 22 de julio",
+        "incorrecta2": "El 24 de Diciembre",
+        "incorrecta3": "Ninguna es correcta\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Simulacion casi perfecta de π (Pi)",
+        "respuesta": "355/113",
+        "incorrecta1": "22/3",
+        "incorrecta2": "Raíz de 9,6",
+        "incorrecta3": "Ninguna es correcta\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Something Tells Me de la banda The Stone Roses termina así: \"What's the secret of life? It's _______, yeah yeah!!\" ¿Qué numero menciona?",
+        "respuesta": "3.14159265. π (Pi)",
+        "incorrecta1": "12345",
+        "incorrecta2": "1,61803398. φ (Phi)",
+        "incorrecta3": "√(-1)\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "La probabilidad de que dos enteros positivos escogidos al azar sean primos entre si es…",
+        "respuesta": "6/(π²)",
+        "incorrecta1": "12 arctan(1/49) + 32 arctan(1/57) - 5 arctan(1/239)",
+        "incorrecta2": "1/2+1/3+1/5+1/7+….",
+        "incorrecta3": "ƒ(x) = 2x^e-1\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "El primer millón de cifras de π y su inversa 1/π se puede consultar en…",
+        "respuesta": "El Proyecto Gutenberg (Michael Hart en 1971)",
+        "incorrecta1": "Philosophiæ naturalis principia mathematica (Isaac Newton 1687)",
+        "incorrecta2": "Orígenes de la teoría general de la Relatividad (Einstein 1933)",
+        "incorrecta3": "El gran diseño (Libro de Stephen Hawking y Leonard Mlodinow 2010)\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Existen programas en internet que buscan tu número de teléfono en las 50.000.000 primeras cifras de…",
+        "respuesta": "3.1415926535897932384… π (Pi)",
+        "incorrecta1": "1,6180339887498948482… φ (Phi)",
+        "incorrecta2": "1.7320508075688772935… √(3)",
+        "incorrecta3": "2.2360679774997896964… √(5)\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Un Hombre de nacionalidad Japonesa, El 4 de octubre de 2006, a la 1:30 de la madrugada, y tras 16 horas y media, volvió a romper su propio record recitando 100.000 dígitos del número pi. realizando una parada cada dos horas de 10 minutos para tomar aire.",
+        "respuesta": " Akira Haraguchi",
+        "incorrecta1": "Haruki Murakami",
+        "incorrecta2": "Takeshi Kitano",
+        "incorrecta3": "Kimura Takuya\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "El máximo número de dígitos de π necesario para buscar cualquier secuencia de día-mes-año con cuatro dígitos en la expansión decimal de pi es",
+        "respuesta": "60.872.",
+        "incorrecta1": "100.000.",
+        "incorrecta2": "281.049.",
+        "incorrecta3": "1.026.592.\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "En que país el número telefónico móvil para emergencias en estaciones de trenes y subterráneos es ∗31416. π (Pi)",
+        "respuesta": "Argentina",
+        "incorrecta1": "Chile",
+        "incorrecta2": "Japón",
+        "incorrecta3": "Colombia\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se considera como La Divina Proporción",
+        "respuesta": "1,6180339887498948482… φ (Phi)",
+        "incorrecta1": "1,4142135623730950488… √(2)",
+        "incorrecta2": "3.1415926535897932384… π (Pi)",
+        "incorrecta3": "2.2360679774997896964… √(5)\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿La siguiente expresión de fracciones continuas a que resultado tienden?",
+        "respuesta": "1,6180339887498948482… φ (Phi)",
+        "incorrecta1": "1,4142135623730950488… √(2)",
+        "incorrecta2": "3.1415926535897932384… π (Pi)",
+        "incorrecta3": "2.2360679774997896964… √(5)\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿La siguiente expresión de fracciones continuas a que resultado tienden?",
+        "respuesta": "1,6180339887498948482… φ (Phi)",
+        "incorrecta1": "1,4142135623730950488… √(2)",
+        "incorrecta2": "3.1415926535897932384… π (Pi)",
+        "incorrecta3": "2.2360679774997896964… √(5)\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Calcula a estos cuatro nueves (9×9+9)/9",
+        "respuesta": "10",
+        "incorrecta1": "9",
+        "incorrecta2": "8",
+        "incorrecta3": "7\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Calcula a estos cuatro nueves (99-9)/9",
+        "respuesta": "10",
+        "incorrecta1": "9",
+        "incorrecta2": "8",
+        "incorrecta3": "7\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Calcula a estas cinco cifras iguales 33×3+(3/3)",
+        "respuesta": "100",
+        "incorrecta1": "333",
+        "incorrecta2": "11",
+        "incorrecta3": "5\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Calcula a estos tres treses 33-3",
+        "respuesta": "30",
+        "incorrecta1": "31",
+        "incorrecta2": "29",
+        "incorrecta3": "28\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Calcula a estos tres seis (6×6)-6",
+        "respuesta": "30",
+        "incorrecta1": "31",
+        "incorrecta2": "29",
+        "incorrecta3": "28\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Calcula a estos tres cincos (5×5)+5",
+        "respuesta": "30",
+        "incorrecta1": "31",
+        "incorrecta2": "29",
+        "incorrecta3": "28\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Forma correcta de escribir al 10 con cuatro nueves",
+        "respuesta": "(9x9+9)/9 ",
+        "incorrecta1": "9+9+9+9",
+        "incorrecta2": "9-9+(9x9)",
+        "incorrecta3": "(9x9)/(9x9)\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Forma correcta de escribir al 10 con cuatro nueves",
+        "respuesta": "(99-9)/9",
+        "incorrecta1": "9+9+9+10",
+        "incorrecta2": "9-9+(9x9)",
+        "incorrecta3": "(9x9)/(9x9)\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Forma correcta de escribir al 100 con cinco cifras iguales",
+        "respuesta": "111-11",
+        "incorrecta1": "55+55*5",
+        "incorrecta2": "22*2*2+2",
+        "incorrecta3": "33x3x(3/3)\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Forma correcta de escribir al 100 con cinco cifras iguales",
+        "respuesta": "33 x 3 + (3/3) ",
+        "incorrecta1": "55 + 55 x 5",
+        "incorrecta2": "22 x 2 x 2 x 2",
+        "incorrecta3": "33 x 3 x (3/3)\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Forma correcta de escribir al 12 con cinco cifras iguales",
+        "respuesta": "((44-4)/4) + √(4)",
+        "incorrecta1": "(√(2)^2) x 2 x 2 x 2",
+        "incorrecta2": "√(4) x ((44 - 4)/4)",
+        "incorrecta3": "(6 x 6) - 6 - (6/6)\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Forma correcta de escribir al 20 con cinco cifras iguales",
+        "respuesta": "√(4) x ((44 - 4)/4)",
+        "incorrecta1": "(√(4) + 4 x 4) + 4",
+        "incorrecta2": "5 + 5 + 5 + 5 + 5",
+        "incorrecta3": "(6 x 6) - 6 - (6/6)\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se expresa a 36 como producto de tres números naturales y la suma de estos tres da 38 ¿Qué numeros son?",
+        "respuesta": "1, 1 y 36",
+        "incorrecta1": "1, 3 y 12",
+        "incorrecta2": "19, 10 y 9",
+        "incorrecta3": "8, 11 y 19\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se expresa a 36 como producto de tres números naturales y la suma de estos tres da 16 ¿Qué numeros son?",
+        "respuesta": "1,3 y 12",
+        "incorrecta1": "1, 3 y 13",
+        "incorrecta2": "19, 10 y 9",
+        "incorrecta3": "8, 11 y 19\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se expresa a 36 como producto de tres números naturales y la suma de estos tres da 13 ¿Qué numeros son?",
+        "respuesta": "1,6 y 6",
+        "incorrecta1": "9,1 y 1",
+        "incorrecta2": "2,3 y 6",
+        "incorrecta3": "4,6 y 1\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se expresa a 36 como producto de tres números naturales y la suma de estos tres da 11 ¿Qué numeros son?",
+        "respuesta": "2,3 y 6",
+        "incorrecta1": "10,2 y 1",
+        "incorrecta2": "2,3 y 6",
+        "incorrecta3": "4,6 y 1\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se expresa a 36 como producto de tres números naturales y la suma de estos tres da 21 ¿Qué numeros son?",
+        "respuesta": "1,2 y 18",
+        "incorrecta1": "10,10 y 1",
+        "incorrecta2": "2,3 y 6",
+        "incorrecta3": "4,6 y 1\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se expresa a 36 como producto de tres números naturales y la suma de estos tres da 14 ¿Qué numeros son?",
+        "respuesta": "1,4 y 9 ",
+        "incorrecta1": "10,2 y 1",
+        "incorrecta2": "7,6 y 1",
+        "incorrecta3": "4,6 y 1\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se expresa a 36 como producto de tres números naturales y la suma de estos tres da 13 ¿Qué numeros son?",
+        "respuesta": "2,2 y 9",
+        "incorrecta1": "10,2 y 1",
+        "incorrecta2": "2,3 y 6",
+        "incorrecta3": "4,6 y 1\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se expresa a 36 como producto de tres números naturales y la suma de estos tres da 10 ¿Qué numeros son?",
+        "respuesta": "3,3 y 4",
+        "incorrecta1": "1, 3 y 12",
+        "incorrecta2": "19, 10 y 9",
+        "incorrecta3": "8, 11 y 19\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Calcula 4+5+6+7+8=9+10+11",
+        "respuesta": "30",
+        "incorrecta1": "20",
+        "incorrecta2": "100",
+        "incorrecta3": "31\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Los numeros que pueden escribirse como la razon de dos enteros se denominan... ",
+        "respuesta": "Racionales",
+        "incorrecta1": "Enteros",
+        "incorrecta2": "Imaginarios",
+        "incorrecta3": "Compuestos\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Entre dos numeros reales siempre existira otro numero real ¿Qué significa esto?",
+        "respuesta": "Que los numeros son infinitos",
+        "incorrecta1": "Que hay un error en las matematicas",
+        "incorrecta2": "Nadie sabe que significa (es un misterio)",
+        "incorrecta3": "Que por mucho que corramos nunca alcanzaremos la meta\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Raiz Cuadrada de 7",
+        "respuesta": "2,64575131106459…",
+        "incorrecta1": "1,41421356237309…",
+        "incorrecta2": "3.14159265358979...",
+        "incorrecta3": "2.23606797749978...\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Raiz cuadrada de 11",
+        "respuesta": "3,3166247903554...",
+        "incorrecta1": "1,4142135623730…",
+        "incorrecta2": "3.141592653589...",
+        "incorrecta3": "1.732050807568…\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿Dos ruedas están unidas por una correa transmisora. La primera tiene un radio de 25 cm y la segunda de 75 cm. Cuando la primera ha dado 300 vueltas, ¿cuántas vueltas habrá dado la segunda?",
+        "respuesta": "100",
+        "incorrecta1": "1000",
+        "incorrecta2": "18",
+        "incorrecta3": "49\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿Seis personas pueden vivir en un hotel durante 12 días por $792.000. ¿Cuánto costará el hotel de 15 personas durante ocho días?",
+        "respuesta": "$1.320.000",
+        "incorrecta1": "$15.000.000",
+        "incorrecta2": "$1.203.000",
+        "incorrecta3": "$8.927.000\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Con 12 botes conteniendo cada uno ½ kg de pintura se han pintado 90 m de verja de 80 cm de altura. Calcular cuántos botes de 2 kg de pintura serán necesarios para pintar una verja similar de 120 cm de altura y 200 metros de longitud.",
+        "respuesta": "10",
+        "incorrecta1": "5",
+        "incorrecta2": "19",
+        "incorrecta3": "11\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "11 obreros labran un campo rectangular de 220 m de largo y 48 de ancho en 6 días. ¿Cuántos obreros serán necesarios para labrar otro campo análogo de 300 m de largo por 56 m de ancho en cinco días?",
+        "respuesta": "21",
+        "incorrecta1": "22",
+        "incorrecta2": "20",
+        "incorrecta3": "19\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "a cuanto equivale ½ de hora en minutos",
+        "respuesta": "30",
+        "incorrecta1": "15",
+        "incorrecta2": "45",
+        "incorrecta3": "60\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Fraccion equivalente a 4/3",
+        "respuesta": "12/9",
+        "incorrecta1": "15/21",
+        "incorrecta2": "2/3",
+        "incorrecta3": "16/6\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "La hipotenusa es igual a la raiz de la suma de los catetos al cuadrado",
+        "respuesta": "Teorema de pitagoras",
+        "incorrecta1": "Teorema de Tales",
+        "incorrecta2": "Es incorrecto",
+        "incorrecta3": "Teorema del triangulin\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "El algoritmo de euclides",
+        "respuesta": "Halla el MCD",
+        "incorrecta1": "Halla PI",
+        "incorrecta2": "Estaba errado",
+        "incorrecta3": "Desubre lo que piensas\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "La criba de eratosteles…",
+        "respuesta": "tiene relacion con los primos",
+        "incorrecta1": "Es un libro",
+        "incorrecta2": "Eso no existe",
+        "incorrecta3": "Es una conjetura\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "la circunferencia de un círculo mantiene la misma relación respecto de su diámetro que la superficie del círculo respecto del cuadrado del radio.",
+        "respuesta": "π",
+        "incorrecta1": "Esa afirmacion es errada",
+        "incorrecta2": "Es una constante que equivale a 22/7",
+        "incorrecta3": "en el 2001 se encontro que equivale exactamente a 355/113\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "El nombre algebra tiene origen por",
+        "respuesta": "Al-Juarismi",
+        "incorrecta1": "Brahmagupta",
+        "incorrecta2": "Abu'l Wafa",
+        "incorrecta3": "Al-Battani\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "nacionalidad\"",
+        "respuesta": "Frances",
+        "incorrecta1": "Italiano",
+        "incorrecta2": "Colombiano",
+        "incorrecta3": "Mexicano\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Euclides, nacionalidad",
+        "respuesta": "Griego",
+        "incorrecta1": "Africano",
+        "incorrecta2": "Ruso",
+        "incorrecta3": "Chileno\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Sir Isaac Newton, nacionalidad",
+        "respuesta": "Ingles",
+        "incorrecta1": "Colombiano",
+        "incorrecta2": "Venezolano",
+        "incorrecta3": "Peruano\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Sir Isaac Newton gran hecho",
+        "respuesta": "Descubrió el calculo en el siglo XVII",
+        "incorrecta1": "Creó la geometría analítica en el siglo XVII. ",
+        "incorrecta2": "Inventó el topología algebraica en el siglo XIX",
+        "incorrecta3": "Comia mucho mani\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Nacionalidad de Gottfried Leibniz",
+        "respuesta": "Alemán",
+        "incorrecta1": "Suecia",
+        "incorrecta2": "Colombia",
+        "incorrecta3": "China\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Gottfried Leibniz, gran hecho",
+        "respuesta": "desscrubrió el calculo en el siglo 17",
+        "incorrecta1": "Creó la geometría analítica en el siglo XVII. ",
+        "incorrecta2": "Inventó el topología algebraica en el siglo XIX",
+        "incorrecta3": "Comia mucho mani\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "seudónimo de Carl Gauss ",
+        "respuesta": "principe de los matematicos",
+        "incorrecta1": "La bestia del calculo",
+        "incorrecta2": "El Dios de los numeros",
+        "incorrecta3": "Ninguna es correcta\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Leonad Euler nacionalidad",
+        "respuesta": "Suiza",
+        "incorrecta1": "Ruso",
+        "incorrecta2": "Alemania",
+        "incorrecta3": "Berlin\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se fundó la teoria dos grafos",
+        "respuesta": "solucionando un problema que tenia siete puentes. ",
+        "incorrecta1": "Conectando algunos meridianos importantes",
+        "incorrecta2": "En el estudio de los numeros primos",
+        "incorrecta3": "Estudiando aquillas curvas que parecen rectas\r"
+    }
+]
+    
